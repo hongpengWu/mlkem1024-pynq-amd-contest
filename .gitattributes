@@ -1,0 +1,5 @@
+* -text
+*.bit binary
+*.hwh -text
+*.zip binary
+*.docx binary

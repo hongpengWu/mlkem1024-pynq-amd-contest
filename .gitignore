@@ -1,0 +1,16 @@
+/build/*
+!/build/README.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Xil/
+*.jou
+*.wdb
+*.dcp
+*.elf
+*.log
+!/evidence/**/*.log
+/hls/*_prj/
+/hls/reports/
+/board/release/evidence/
+Thumbs.db
